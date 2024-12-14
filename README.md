@@ -1,4 +1,7 @@
 # Exploratory Data Analysis
+
+![EDA analysis](https://github.com/kahanshah-04/Data-Analyst-Kahan/blob/main/images/eda.png)
+
 **Project Description:**
 Analyzing water system operating permits for patterns, trends, and anomalies in issued permits across mechanical system types, compliance, and contamination levels.
 
