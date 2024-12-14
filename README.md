@@ -33,6 +33,8 @@ To identify trends in permit issuance, voluntary compliance, and contamination m
 
 # Descriptive Analysis
 
+![Descriptive analysis](https://github.com/kahanshah-04/Data-Analyst-Kahan/blob/main/images/description.png)
+
 **Project Description:**
 Summarizing the characteristics of water system permits and their distribution across system types and compliance status.
 
@@ -59,6 +61,8 @@ Details 472 water systems, focusing on system types like Cooling Towers, Buildin
 - Charts showing compliance trends and system breakdown
 
 # Diagnostic Analysis
+
+![Diagnostic Analysis](https://github.com/kahanshah-04/Data-Analyst-Kahan/blob/main/images/diagnostic.png)
 
 **Project Description:**
 Analyzing factors affecting permit renewal patterns and voluntary compliance among mechanical system types.
@@ -97,6 +101,8 @@ Permit records with renewal dates, compliance status, and contamination metrics.
   
 # Data Wrangling
 
+![Data Wrangling](https://github.com/kahanshah-04/Data-Analyst-Kahan/blob/main/images/wrangling.png)
+
 **Project Description:**
 Cleaning and transforming water system permit data for accurate analysis and visualization.
 
@@ -132,6 +138,8 @@ Raw dataset stored in S3 bucket with 472 permit records.
 - Storage and validation: 2 days
 
 # Data Quality Control
+
+![Data Quality Control](https://github.com/kahanshah-04/Data-Analyst-Kahan/blob/main/images/qualityControl.png)
 
 **Project Description:**
 Ensuring the reliability and accuracy of permit data through validation and governance measures.
